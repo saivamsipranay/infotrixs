@@ -1,5 +1,4 @@
-# infotrixs
-Cloud Intern (AWS) Report
+#Cloud Intern (AWS) Report
 
 Task: Deploy application in monolithic and microservices architecture
 ❖ Description:
