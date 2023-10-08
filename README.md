@@ -10,9 +10,11 @@
 ❖ Goal to this task to check your understanding level
 ❖ Create a video and report of how you completed it with proper screenshots
 
-Application Web page URLs:
-Monolithic: 18.61.33.165
-Microservice's: 18.61.76.175
+**Application Web page URLs:**
+
+Monolithic: http://18.61.33.165/
+Microservice's: http://18.61.76.175/
+
 **Monolithic: **
 1.	Create a EC2 instance with Ubuntu OS
 -	Lets start with Creating a security group for monolith server
