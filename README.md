@@ -1,6 +1,6 @@
-#Cloud Intern (AWS) Report
+#**Cloud Intern (AWS) Report**
 
-Task: Deploy application in monolithic and microservices architecture
+**Task**: Deploy application in monolithic and microservices architecture
 ❖ Description:
 - For monolithic: 1 EC2 instance, deploy WordPress and MYSQL on the same instances
 - For microservices: 2 EC2 instance, 1 for WordPress and 1 for MYSQL
@@ -10,7 +10,10 @@ Task: Deploy application in monolithic and microservices architecture
 ❖ Goal to this task to check your understanding level
 ❖ Create a video and report of how you completed it with proper screenshots
 
-Monolithic: 
+Application Web page URLs:
+Monolithic: 18.61.33.165
+Microservice's: 18.61.76.175
+**Monolithic: **
 1.	Create a EC2 instance with Ubuntu OS
 -	Lets start with Creating a security group for monolith server
 -	Goto AWS console and search for security groups  
@@ -113,7 +116,7 @@ And save it by :wq
 
 
 
-Microservices
+**Microservices**
 1.	Create a security group for both WordPress server and Mysql server
 -	Add inbound rules ssh and http for wordpress sg
   -	Create another sg for mysql and make ssh and 3302 port open
