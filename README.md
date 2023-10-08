@@ -1,4 +1,4 @@
--	Create a key pair and select the sg that we created earlier that is monolith# infotrixs
+# infotrixs
 Cloud Intern (AWS) Report
 
 Task: Deploy application in monolithic and microservices architecture
