@@ -10,7 +10,7 @@
 ❖ Goal to this task to check your understanding level
 ❖ Create a video and report of how you completed it with proper screenshots
 
-**Application Web page URLs:**
+**Deployed Application Web page URLs:**
 
 Monolithic: http://18.61.33.165/
 
