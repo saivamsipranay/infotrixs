@@ -23,7 +23,9 @@ Monolithic:
  
 -	Now give a name for instance, select the ubuntu AMI and t2.micro instance type 
  
--	Create a key pair and select the sg that we created earlier 
+-	Create a key pair and select the sg that we created earlier
+  ![image](https://github.com/saivamsipranay/infotrixs/assets/123617597/d3d48429-6571-40b1-bbbb-f19cec06d53f)
+
  
 -	Now hit the Launch instance, A instance will create.
  
